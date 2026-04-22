@@ -1,0 +1,9 @@
+No official logo asset available.
+
+inkmunotattoo.com is a Squarespace "Coming Soon" placeholder as of April 2026.
+LinkedIn profile image is a round badge but resolution and color definition are
+insufficient for a production landing page logo.
+
+Placeholder treatment: set the company name as a wordmark in Inter 700,
+negative tracking (-0.02em), color #0A0A0A (ink black), lowercase "inkmunotattoo".
+Replace with official asset when founders provide one at the booth or via email.
